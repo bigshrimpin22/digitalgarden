@@ -13,7 +13,7 @@ Before meeting with the King, Jakob takes a moment to examine both Chud and Ehla
 
 The party when asking for their rewards requests:
 - Dottie: Money to be sent to Hildebald Bigge, and to her parents (if they can be found)
-- Chud: Infrastructure and money to be put into his village, a stronger link between the mainland and the town
+- Chud: Infrastructure and money to be put into his village, a stronger link between the mainland and the town, he also asked for more money and rope in his infinite capacity for avarice
 - Mion: Three favours, and payment for Alistair and his sister's fees after visiting Turkish Quandale
 - Beannacht: Access to armaments and any and all further information regarding the location of the Serpent's Doubt
 
