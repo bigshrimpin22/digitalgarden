@@ -29,6 +29,7 @@ Upon further wandering, the party encountered Daegan Moriarty, a friendly tiefli
 
 A Yuan-Ti of high standing is led through the crowd by guards towards the palace, locking eyes with Mion as he passes the group
 
+[[HomePage\|Back to Home]]
 Session Start Date: Scholar's 74th
 Session End Date: Scholar's 75th
 

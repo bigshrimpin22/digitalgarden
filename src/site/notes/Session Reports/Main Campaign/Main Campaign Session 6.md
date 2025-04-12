@@ -26,6 +26,7 @@ Travelling back to the capital, they encounter Nathaniel Boneturner, a young boy
 
 In the fading light of dusk with the moon cresting the horizon, Charles feels something shatter in his chest. In rashly attacking a living creature without reason, he has broken his oath with the Matron, and has thus become an Oathbreaker, ending the session.
 
+[[HomePage\|Back to Home]]
 Session Start Date: Scholar's 71st, 992CT
 Session End Date: Scholar's 73rd, 992CT
 #sessionreport 
