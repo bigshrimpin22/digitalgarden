@@ -8,6 +8,7 @@ Dinner Party One Shot:
 [[Player Characters/Bo Cleraft\|Bo Cleraft]]
 [[Player Characters/Daegan Moriarty\|Daegan Moriarty]]
 [[Player Characters/Lyla Lyre\|Lyla Lyre]]
+
 [[Player Characters/Qiyax's Eberoth\|Qiyax's Eberoth]]
 [[Player Characters/Regal Gallivant\|Regal Gallivant]]
 [[Player Characters/Vanston Chixtabar\|Vanston Chixtabar]]

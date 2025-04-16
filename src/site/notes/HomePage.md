@@ -19,6 +19,7 @@ Here are the session reports for the Online Campaign:
 
 Lists of terms:
 [[List of Player Characters\|List of Player Characters]]
+[[The Pantheon\|The Pantheon]]
 
 Miscellaneous:
 [[Kitoah\|Kitoah]]

@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/kitoah/"}
 ---
 
-
 Kitoah is the youngest of the recognised kingdoms on Tarkhat, coming into existence officially 992 years ago with the signing of the Calvadas Treaty signalling the end of a decades long armed conflict, the War of Ablution between Scilcar, Tal'Eraie, and the native people of Kitoah for ownership of the land. 
 
-Kitoah has a higher density of magic in the air compared to other landmasses on Tarkhat, only being rivalled by The Osten Straits for pure magic (due to the gemstones that are mined there). The reason for this density of magic in Kitoah is the Weavebough, the type of tree that grows most abundantly in the forest, and is magical in nature. This tie to nature has led to Kitoah seeing Ehlonna as the god most worthy of their worship. This magical wood was also the main reason both Scilcar and Tal'Eraie wanted ownership of the kingdom, as well as the reason for The Conflagration, one of the single most destructive events in the history of Tarkhat, and led to the loss of 60-70% of the total area of forest.
+Kitoah has a higher density of magic in the air compared to other landmasses on Tarkhat, only being rivalled by The Osten Straits for pure magic (due to the gemstones that are mined there). The reason for this density of magic in Kitoah is the Weavebough, the type of tree that grows most abundantly in the forest, and is magical in nature. This tie to nature has led to Kitoah seeing Ehlonna as the god most worthy of their worship. This magical wood was also the main reason both Scilcar and Tal'Eraie wanted ownership of the kingdom, as well as a hypothesised reason for The Conflagration, one of the single most destructive events in the history of Tarkhat, that led to the loss of 60-70% of the total area of forest.
 
 Dates in Kitoah are written as Scholar’s 5th, Shield’s 24th, etc.
 The largest celebration on Kitoah is the middle week of Matron’s, where all three moons and the light of Thirthal are present in the sky together, and marks the beginning of the harvest period, and fair fortune for everyone.
