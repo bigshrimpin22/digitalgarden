@@ -12,6 +12,7 @@ Here are the session reports for the Main Campaign:
 [[Session Reports/Main Campaign/Main Campaign Session 5\|Main Campaign Session 5]]
 [[Session Reports/Main Campaign/Main Campaign Session 6\|Main Campaign Session 6]]
 [[Session Reports/Main Campaign/Main Campaign Session 7\|Main Campaign Session 7]]
+[[Session Reports/Main Campaign/Main Campaign Session 8\|Main Campaign Session 8]]
 
 Here are the session reports for the Online Campaign:
 [[Session Reports/Online Campaign/Online Campaign Session 1\|Online Campaign Session 1]]
