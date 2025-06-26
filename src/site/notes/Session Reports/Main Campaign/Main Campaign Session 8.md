@@ -28,5 +28,6 @@ Children in the town have been scaring each other with stories of the "Hooded Ma
 
 After interviewing each of the store owners, the party resolves to lie in wait and ambush the Hooded Man upon his next appearance in the town
 
-Session Start Date: Scholar's 75th
-Session End Date: Matron's 8th
+[[HomePage\|Back to Home]]
+Session Start Date: Scholar's 75th, 992 CT
+Session End Date: Matron's 8th, 992 CT

@@ -10,6 +10,6 @@ They were encountered by the party on the way to Aesend in [[Session Reports/Mai
 Its members at present consist of:
 Vulful the Destroyer - Half-orc man and leader, Dark hair in a ponytail and one chipped tusk
 Astericus the Mountain - Warforged, Tall and broad, coppery and uses their chest as a gong when combat is taking place
-Graal, the Magnificent - Elven man, chestnut brown buzzcut and quite tall for an elf 
+Graal, the Magnificent - Elven man, chestnut brown buzzcut and quite tall for an elf. He has been diagnosed with Cystic Fibrosis by Charles in Session 2, but was later cured by him in Session 7
 Flork - Goblin, scrawny and bald
 Fulfhea the Wolf - Human, close cropped blonde hair, hardened physique and several scars along her arms
