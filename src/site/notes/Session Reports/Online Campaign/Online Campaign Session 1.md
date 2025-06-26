@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/session-reports/online-campaign/online-campaign-session-1/"}
 ---
 
-
 The party are classmates from Greybird Keep and had just finished their classes for the harvest season. While talking to each other outside their school, they noticed the sound of marching troops, watching in awe as a Scilcarian parade passes through the town, drawing worried looks and remarks from other villagers
 
 The party consists of Lira Goodhart, Enzo Ferratus, Elias Kullervo, Vara Anunsiá, and Cassian Grimward. After leaving school they made an agreement to meet outside the local tavern, The Tawny Beard for the harvest festival dance, and all go home to their parents/guardians.

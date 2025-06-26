@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/session-reports/online-campaign/online-campaign-session-2/"}
 ---
 
-
 A year after the events of the first session, Vara's father is still in a coma, Cassian has been training as a psi warrior, Enzo has been sparring with Cassian as well as helping Vara with her father, Elias has attempted to gain more of a handle on his powers, and to study the books they found, and Lira has done his best to investigate what his father has been up to.
 Lira's information on his father:
 - Waldren has been dealing with a member of the Court from Tal'Eraie, as well as the head of the Scilcarian foothold in Kitoah. He has been acquiring magical gemstones from The Osten Straits and selling them to both sides to power their defence and offence.
