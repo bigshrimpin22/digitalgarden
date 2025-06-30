@@ -3,7 +3,7 @@
 ---
 
 Note: Gelifraction Wedging has joined the campaign, played by Miney
-Mion was confronted by the Scilcarian legion in a tavern in Aegirstead before making his way to Estwynn]] to meet up with the party again. After encountering them he is filled in on the information they have collected about the Hooded Man
+Mion was confronted by the Scilcarian legion in a tavern in Aegirstead before making his way to Estwynn to meet up with the party again. After encountering them he is filled in on the information they have collected about the Hooded Man
 
 The party are in the town following their investigation. Geli is in town to meet with Jowos Doublet in order to retrieve and destroy forbidden information. After asking the party for directions, they lead her to his office for a hefty sum of 20 gold. Geli takes the pages in question that Jowos retrieved from a client he was representing in court, and burns away the forbidden information from the pages before anyone (including herself) manages to read whats on them. Chud proceeds to destroy the rest of the paper.
 
