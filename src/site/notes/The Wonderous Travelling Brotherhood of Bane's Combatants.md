@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-wonderous-travelling-brotherhood-of-bane-s-combatants/"}
 ---
 
-
 TWTBBC is a group of Paladins that follow the teachings of Bane in a very direct manner. Being a blend of the old-school and new-age teachings of the elder of the brother gods, they are a group of professional wrestlers that adore both the act of combat and the flamboyant theatrics that come with it. They originally hail from Sandurug, but are currently touring Kitoah in their off-season to make some extra cash where they can
 
 They were encountered by the party on the way to Aesend in [[Session Reports/Main Campaign/Main Campaign Session 2\|Main Campaign Session 2]], and later again in [[Session Reports/Main Campaign/Main Campaign Session 7\|Main Campaign Session 7]], back in Aegirstead.

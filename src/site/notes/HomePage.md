@@ -26,6 +26,7 @@ Lists of terms:
 
 Miscellaneous:
 [[Kitoah\|Kitoah]]
+[[Tal'Eraie\|Tal'Eraie]]
 [[Tarkhat\|Tarkhat]]
 [[The Wonderous Travelling Brotherhood of Bane's Combatants\|The Wonderous Travelling Brotherhood of Bane's Combatants]]
 [[Turkish Quandale\|Turkish Quandale]]

@@ -8,4 +8,6 @@ The main bodies of land on Tarkhat are Kitoah, Scilcar, and Tal'Eraie. There are
 
 Tarkhat has 3 moons, and its seasons are named according to the presence of each moon in the sky. The Matron is the largest of the moons, being named for [[Pantheon and Godly Stuff/Ehlonna\|Ehlonna]], and in more contemporary times has been referred to as The Maiden to honour [[Pantheon and Godly Stuff/Istishia\|Istishia]]. The Scholar is named for [[Pantheon and Godly Stuff/Ioun\|Ioun]], and The Shield is named for [[Pantheon and Godly Stuff/Bane\|Bane]]. 
 A year in total is 211 days.
+
+[[HomePage\|Back to Home]]
 #location 
