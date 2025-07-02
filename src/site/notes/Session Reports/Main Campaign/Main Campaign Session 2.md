@@ -3,7 +3,7 @@
 ---
 
 
-The party, while heading to Aesend encounters [[The Wonderous Travelling Brotherhood of Bane's Combatants\|The Wonderous Travelling Brotherhood of Bane's Combatants]], camping out for the night. Making a friendly wager, Dottie bests Fulfhea the Wolf in a wrestling match, and the two confide in each other about their similar capabilities. Charles diagnoses Graal, the Magnificent with cystic fibrosis.
+The party, while heading to Aesend encounters [[NPCs/The Wonderous Travelling Brotherhood of Bane's Combatants\|The Wonderous Travelling Brotherhood of Bane's Combatants]], camping out for the night. Making a friendly wager, Dottie bests Fulfhea the Wolf in a wrestling match, and the two confide in each other about their similar capabilities. Charles diagnoses Graal, the Magnificent with cystic fibrosis.
 
 On the way into town, they see a monument of stones, each with names and dates carved into it. Beannacht is able to recognise that these are the names of ships and when they sank or were decommissioned. He pulls out a stone that is signed with a "J", and throws it away from the monument in disgust.
 

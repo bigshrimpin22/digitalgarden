@@ -24,9 +24,18 @@ Lists of terms:
 [[List of Player Characters\|List of Player Characters]]
 [[The Pantheon\|The Pantheon]]
 
-Miscellaneous:
-[[Kitoah\|Kitoah]]
-[[Tal'Eraie\|Tal'Eraie]]
-[[Tarkhat\|Tarkhat]]
-[[The Wonderous Travelling Brotherhood of Bane's Combatants\|The Wonderous Travelling Brotherhood of Bane's Combatants]]
-[[Turkish Quandale\|Turkish Quandale]]
+Locations:
+[[Locations/Kitoah\|Kitoah]]
+[[Locations/Tal'Eraie\|Tal'Eraie]]
+[[Locations/Tarkhat\|Tarkhat]]
+[[Locations/The Spindle\|The Spindle]]
+
+NPCs:
+[[NPCs/The Wonderous Travelling Brotherhood of Bane's Combatants\|The Wonderous Travelling Brotherhood of Bane's Combatants]]
+[[NPCs/Turkish Quandale\|Turkish Quandale]]
+
+Other Lore:
+[[ETC/Pact\|Pact]]
+[[ETC/Paladin\|Paladin]]
+[[ETC/Sorcerer\|Sorcerer]]
+[[ETC/Warlock\|Warlock]]

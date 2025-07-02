@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pantheon-and-godly-stuff/zehir/"}
 ---
 
-Zehir is the god of betrayal, deceit, and imprisonment, and has been given several titles by [[Kitoah\|Kitoahns]], including The Warden, The Betrayer, and The Serpent. He is the youngest of the four original Gods, and used the God Cleaver to split the world into parts in the Kitoahn creation story.
+Zehir is the god of betrayal, deceit, and imprisonment, and has been given several titles by [[Locations/Kitoah\|Kitoahns]], including The Warden, The Betrayer, and The Serpent. He is the youngest of the four original Gods, and used the God Cleaver to split the world into parts in the Kitoahn creation story.
 
 Zehir is the younger, wilier, more cunning brother of [[Pantheon and Godly Stuff/Bane\|Bane]]. In his older age, Zehir has taken on a trickster, slightly off-putting, grandfather-ly energy. When he appears to people, he is a hunched over, hobbling old man, with a smattering of long yellowed teeth in a mouth that stretches wider than his face should allow, with tiny gold-rimmed glasses. However, when someone is acting out of line, he has been known to stretch to his full height and drop all genial pretence. He does not like to interact with the other Gods due to them reminding him of his past, however he has some general pleasant conversations and spends time with [[Pantheon and Godly Stuff/Istishia\|Istishia]] in recent months.
 

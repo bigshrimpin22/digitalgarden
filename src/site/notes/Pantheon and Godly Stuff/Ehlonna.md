@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pantheon-and-godly-stuff/ehlonna/"}
 ---
 
-Ehlonna is the goddess of life, nature and growth, and has been given several titles by [[Kitoah\|Kitoahns]], including The Matron, The Mother, The Pale Lady, and Alspréach (Kitoahn for Spark of Life). 
+Ehlonna is the goddess of life, nature and growth, and has been given several titles by [[Locations/Kitoah\|Kitoahns]], including The Matron, The Mother, The Pale Lady, and Alspréach (Kitoahn for Spark of Life). 
 
 All life has to come from somewhere. On Tarkhat, all life as it currently exists, comes from Ehlonna. As part of the story of creation of the world taught to children in Kitoah, the Gods realised after dividing up the world that there was nothing for them to do with it, so the Matron created life by binding herself to a pillar of stone on the barren landscape, turning it into the first tree. This is also the accepted reason for why the Great Green, and by extension, Kitoah have such a magical tendency
 

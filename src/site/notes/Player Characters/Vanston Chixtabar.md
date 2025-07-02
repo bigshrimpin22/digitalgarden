@@ -3,7 +3,7 @@
 ---
 
 
-Vanston Chixtabar is a [[List of Player Characters\|Player Character]] from the Dinner Party One Shot played by Gavin. He is as Dragonborn Paladin and the most famous hero in [[Kitoah\|Kitoah]]. 
+Vanston Chixtabar is a [[List of Player Characters\|Player Character]] from the Dinner Party One Shot played by Gavin. He is as Dragonborn Paladin and the most famous hero in [[Locations/Kitoah\|Kitoah]]. 
 
 The only survivor of an ambush on his village’s convoy by gnolls, a young Vanston swore to never allow anyone to suffer the fear and pain he did on that day. From that day, his oath drove him, becoming stronger, confronting injustice and strife, leading him to become a hero to everyone in the kingdom. He has occasionally led armies into battle against foes he thinks are particularly villainous, but prefers to keep to private affairs. He has put out fires, retrieved precious artefacts for religious groups, and even gotten in some romantic entanglements along the way. But the road to conquest is a lonely one, and he marches alone to this day.
 

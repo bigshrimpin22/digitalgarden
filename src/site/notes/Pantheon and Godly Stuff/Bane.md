@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pantheon-and-godly-stuff/bane/"}
 ---
 
-Bane is the god of war, conflict, and performance, and has been given the title of "The Shield" by [[Kitoah\|Kitoahns]]. 
+Bane is the god of war, conflict, and performance, and has been given the title of "The Shield" by [[Locations/Kitoah\|Kitoahns]]. 
 
 Within the recognise pantheon, Bane is the second-most venerated God in Kitoah. As life evolved, it engaged in conflict, it began as necessity, but now is more out of emotional fulfilment. Kitoah has not seen a major war in a millennium, and Bane’s purpose has moved from that of a fierce and overwhelming combatant to that of a stalwart protector, and source of bravery for those engaged in bouts, or the performing arts. This can be best seen in the popular wrestling tradition that has small pockets in every city, but has the crux of its industry located in Sandurug. 
 

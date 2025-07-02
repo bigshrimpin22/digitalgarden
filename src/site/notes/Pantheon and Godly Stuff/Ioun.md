@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pantheon-and-godly-stuff/ioun/"}
 ---
 
-Ioun is the goddess of knowledge, progress, and justice, and has been given the title "The Scholar" by [[Kitoah\|Kitoahns]].
+Ioun is the goddess of knowledge, progress, and justice, and has been given the title "The Scholar" by [[Locations/Kitoah\|Kitoahns]].
 
 As society developed, the need for education and accretion of knowledge developed too. While formal education is rare in Kitoah, the justice system and laws are overseen by those who follow the teachings of Ioun closely. It is said that as the first towns were forming and crime was beginning to become rampant across them, she appeared to several people across the land with a similar message, and each began to form the laws of the land, which developed into the system of law seen across Kitoah today. 
 
