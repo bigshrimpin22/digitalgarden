@@ -17,13 +17,14 @@ Beannacht
 Charles Faurnbrow
 Chud
 Dorothy "Dottie" Bigge
-Ehla
+[[Player Characters/Ehla\|Ehla]]
 Gelifraction Wedging
 Mion
 
-Online Campaign:
+Vignettes Campaign:
 Cassian Grimward
 Elias Kullervo
-Enzo Ferratus
+Enz0
+[[Player Characters/Enzo Ferratus\|Enzo Ferratus]]
 Lira Goodhart
 Vara Anunsiá

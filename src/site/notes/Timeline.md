@@ -9,7 +9,8 @@
 6 AT: 
 	[[Session Reports/Vignettes/Vignettes Session 1\|Vignettes Session 1]]
 5 AT: 
-	[[Session Reports/Vignettes/Vignettes Session 2\|Vignettes Session 2]]
+	[[Session Reports/Vignettes/Vignettes Session 2\|Vignettes Session 2]] 
+	[[ETC/The Conflagration\|The Conflagration]] destroys over half the forest present in Kitoah
 1 AT: 
 	[[Session Reports/Vignettes/Vignettes Session 3\|Vignettes Session 3]]
 __________________________________________________________________________

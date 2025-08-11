@@ -34,11 +34,23 @@ Locations:
 [[Locations/The Spindle\|The Spindle]]
 
 NPCs:
+[[NPCs/Kelda Preet\|Kelda Preet]]
 [[NPCs/The Wonderous Travelling Brotherhood of Bane's Combatants\|The Wonderous Travelling Brotherhood of Bane's Combatants]]
 [[NPCs/Turkish Quandale\|Turkish Quandale]]
+[[NPCs/Olive Sawyer\|Olive Sawyer]]
+[[NPCs/Orvyn Sawyer\|Orvyn Sawyer]]
 
-Other Lore:
+Magic and Historical Stuff:
+[[Calvadas Treaty\|Calvadas Treaty]]
+[[ETC/Death\|Death]]
 [[ETC/Pact\|Pact]]
-[[ETC/Paladin\|Paladin]]
-[[ETC/Sorcerer\|Sorcerer]]
-[[ETC/Warlock\|Warlock]]
+
+Class-specific Lore:
+[[Class Lore/Barbarian\|Barbarian]]
+[[Class Lore/Blood Hunter\|Blood Hunter]]
+[[Class Lore/Druid\|Druid]]
+[[Class Lore/Paladin\|Paladin]]
+[[Class Lore/Rogue\|Rogue]]
+[[Class Lore/Sorcerer\|Sorcerer]]
+[[Class Lore/Warlock\|Warlock]]
+[[Class Lore/Wizard\|Wizard]]
