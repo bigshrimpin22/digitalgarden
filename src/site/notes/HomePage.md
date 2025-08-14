@@ -15,10 +15,13 @@ Here are the session reports for the Main Campaign:
 [[Session Reports/Main Campaign/Main Campaign Session 8\|Main Campaign Session 8]]
 [[Session Reports/Main Campaign/Main Campaign Session 9\|Main Campaign Session 9]]
 
-Here are the session reports for the Online Campaign:
+Here are the session reports for the Vignettes Campaign:
 [[Session Reports/Vignettes/Vignettes Session 1\|Vignettes Session 1]]
 [[Session Reports/Vignettes/Vignettes Session 2\|Vignettes Session 2]]
 [[Session Reports/Vignettes/Vignettes Session 3\|Vignettes Session 3]]
+
+Here are the session reports for A Fistful of Coppers:
+[[A Fistful of Coppers Session 1\|A Fistful of Coppers Session 1]]
 
 General Timeline (anything I put here shouldn't be changing):
 [[Timeline\|Timeline]]
