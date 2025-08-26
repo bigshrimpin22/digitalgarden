@@ -4,6 +4,9 @@
 
 Welcome!
 
+Here is the writeup for the Dinner Party One Shot:
+[[Dinner Party\|Dinner Party]]
+
 Here are the session reports for the Main Campaign:
 [[Session Reports/Main Campaign/Main Campaign Session 1\|Main Campaign Session 1]]
 [[Session Reports/Main Campaign/Main Campaign Session 2\|Main Campaign Session 2]]
