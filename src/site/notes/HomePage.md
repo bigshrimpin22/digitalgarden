@@ -17,7 +17,7 @@ Here are the session reports for the Main Campaign:
 [[Session Reports/Main Campaign/Main Campaign Session 7\|Main Campaign Session 7]]
 [[Session Reports/Main Campaign/Main Campaign Session 8\|Main Campaign Session 8]]
 [[Session Reports/Main Campaign/Main Campaign Session 9\|Main Campaign Session 9]]
-[[Main Campaign Session 10\|Main Campaign Session 10]]
+[[Session Reports/Main Campaign/Main Campaign Session 10\|Main Campaign Session 10]]
 
 Here are the session reports for the Vignettes Campaign:
 [[Session Reports/Vignettes/Vignettes Session 1\|Vignettes Session 1]]
