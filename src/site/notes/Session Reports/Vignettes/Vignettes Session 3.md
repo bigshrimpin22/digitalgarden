@@ -23,3 +23,6 @@ Elias, using Mislead manages to get close to the curtain and listen in on the me
 Upon the conclusion of the meeting, the party intercepts the final two attendants outside the bar, demanding to be included in the discussion. After a lot of refusal and denial, after learning that Cassian is the brother of Wulfric Grimward, they dismount their horses and ask the group to join them inside the bar once again, ending the session.
 
 There will not be a large timeskip following this session (details to follow)
+
+[[HomePage\|Back to Home]]
+#sessionreport 

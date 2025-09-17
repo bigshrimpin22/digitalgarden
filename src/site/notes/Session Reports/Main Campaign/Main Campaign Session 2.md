@@ -11,7 +11,7 @@ Upon reaching the town, the gang meet with Lawmaster Kelda Preet. She informs th
 
 After going to the museum and attempting to meet up with Mako, but missing him for the evening, the group splits up. Dottie and Beann decide to go to a local tavern to catch a Snail Wrestling match, where as Mion and Charles decide to enjoy a more fancy tavern with higher end drinks and meals. While at the fancy tavern, a package is delivered for Mion, which contains the teleportation device that allows him to return to his home on occasion. Similarly, Beannacht receives a note from someone informing him of the future whereabouts of a person of interest
 
-[[HomePage\|Back to Home]]
 Session Start Date: Scholar's 67th, 992CT
 Session End Date: Scholar's 70th, 992CT
+[[HomePage\|Back to Home]]
 #sessionreport 

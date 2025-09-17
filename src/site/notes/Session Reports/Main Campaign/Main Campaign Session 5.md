@@ -13,7 +13,7 @@ After a tough battle they manage to best it, with Mion dealing the killing blow 
 
 After sharing and swapping some of the items, the party hears the door to the basement open, and Alonso Mako enters, shocked to see the party there, ending the session.
 
-[[HomePage\|Back to Home]]
 Session Start Date: Scholar's 71st, 992CT
 Session End Date: Scholar's 71st, 992CT
+[[HomePage\|Back to Home]]
 #sessionreport 

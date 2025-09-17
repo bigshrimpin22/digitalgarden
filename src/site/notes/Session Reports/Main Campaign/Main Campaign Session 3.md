@@ -13,7 +13,7 @@ The next morning, the party travelled back to the Maiden's Museum to confront Al
 
 The party also encountered Cashel Calven, a Firbolg with a caravan shop set up in the central square of the town.
 
-[[HomePage\|Back to Home]]
 Session Start Date: Scholar's 70th, 992CT
 Session End Date: Scholar's 71st, 992CT
-#sessionreport
+[[HomePage\|Back to Home]]
+#sessionreport 

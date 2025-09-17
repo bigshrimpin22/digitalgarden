@@ -32,4 +32,5 @@ Lira: With some smooth talking, he is in his father's good graces, he plans to i
 Elias: Discovered that the Old man is wearing his face, but isn't necessarily him. Letters from his father are discovered, including the final letter stating that he won't support Elias and Anna anymore
 Enzo: Arrived to the cave, was fried by the energy in the air turning in on him as he tried to leave. A bandit killed him but he managed to take the foe down with him
 
+[[HomePage\|Back to Home]]
 #sessionreport 

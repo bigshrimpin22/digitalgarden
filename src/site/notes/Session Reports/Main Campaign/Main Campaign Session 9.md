@@ -17,6 +17,8 @@ Dottie decides she wants to go see her mother, and separates from the party, hea
 
 The party decide it is time to notify the Lawmaster that the case has been closed, and pile into his office, with Lideer finishing some work for the evening as they do. Despite their best efforts, they are unable to convince him that the problem has been dealt with, and even raise suspicion in the Lawmaster. Before they can muster up a convincing argument, the Lawmaster disappears from the room, leaving the party locked inside, forcing them to grapple with their now dubious circumstances as the session comes to a close
 
-[[HomePage\|Back to Home]]
 Session Start Date: Matron's 8th, 992 CT
 Session End Date: Matron's 9th, 992 CT
+
+[[HomePage\|Back to Home]]
+#sessionreport 

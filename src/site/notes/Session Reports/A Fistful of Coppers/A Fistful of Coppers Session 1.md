@@ -28,3 +28,6 @@ The next carriage was filled with more expensive cargo, before the front one, wh
 The party raided further items from the stash, and Alyssa helped the Colonel access a large, sleek, locked chest nestled against the wall. Almost as soon as it was cracked open, the Colonel turned his gun on Alyssa, turning her head into a cloud of red mist, before aiming at the party, using his enhanced Thunderclap Shotgun to blast everyone but Eliza off the train. Chance paid his respects to Eliza, admiring her ability to turn some of the buckshot back at him and cutting up his face, and allowed her to take Alyssa's body as a show of good will.
 
 As she prepared to jump from the train, Eliza looked at what the Colonel had taken from the crate, a large glass bottle with a luminous green philtre within that turned from liquid to gas and back again. She took a shot with her revolver at it as she leaped, breaking the top half of the bottle and spilling some of the liquid within, drawing a roar of anger from the Colonel, vowing he would get his revenge as the SDT train disappeared into the night, leaving the living party members unconscious following their fall.
+
+[[HomePage\|Back to Home]]
+#sessionreport 

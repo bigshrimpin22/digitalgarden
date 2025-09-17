@@ -23,6 +23,7 @@ Here are the session reports for the Vignettes Campaign:
 [[Session Reports/Vignettes/Vignettes Session 1\|Vignettes Session 1]]
 [[Session Reports/Vignettes/Vignettes Session 2\|Vignettes Session 2]]
 [[Session Reports/Vignettes/Vignettes Session 3\|Vignettes Session 3]]
+[[Session Reports/Vignettes/Vignettes Session 3.5\|Vignettes Session 3.5]]
 
 Here are the session reports for A Fistful of Coppers:
 [[Session Reports/A Fistful of Coppers/A Fistful of Coppers Session 1\|A Fistful of Coppers Session 1]]

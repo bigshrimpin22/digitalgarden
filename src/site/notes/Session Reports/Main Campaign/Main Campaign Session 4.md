@@ -13,7 +13,7 @@ Following the battle, the party noticed that the ship was starting to turn back 
 
 Note: at the end of this session, the party levelled up from Level 3 to Level 5.
 
-[[HomePage\|Back to Home]]
 Session Start Date: Scholar's 71st, 992CT
 Session End Date: Scholar's 71st, 992CT
+[[HomePage\|Back to Home]]
 #sessionreport 

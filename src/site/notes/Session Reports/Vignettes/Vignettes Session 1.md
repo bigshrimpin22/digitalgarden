@@ -21,4 +21,5 @@ End of Session Rolls (1 year):
 - Enzo is told by his father that the bracer allows the user to not only bring the dead back to life, but to allow them to maintain any memories that they had after dying.
 - While hanging around the house the following month, moving things to a carriage outside to go home for the summer, Lira knocks a box to the ground, scattering documents everywhere. Reading through them as he collects them, Lira sees that his father has been funding all three prongs of the conflict currently unfolding, selling and buying weapons and supplies, making a pretty penny while he does so
 
+[[HomePage\|Back to Home]]
 #sessionreport 
