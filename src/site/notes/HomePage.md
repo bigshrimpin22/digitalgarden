@@ -27,6 +27,7 @@ Here are the session reports for the Vignettes Campaign:
 
 Here are the session reports for A Fistful of Coppers:
 [[Session Reports/A Fistful of Coppers/A Fistful of Coppers Session 1\|A Fistful of Coppers Session 1]]
+[[Session Reports/A Fistful of Coppers/A Fistful of Coppers Session 2\|A Fistful of Coppers Session 2]]
 
 General Timeline (anything I put here shouldn't be changing):
 [[Timeline\|Timeline]]
