@@ -28,3 +28,11 @@ Enz0
 [[Player Characters/Enzo Ferratus\|Enzo Ferratus]]
 Lira Goodhart
 Vara Anunsiá
+
+A Fistful of Coppers:
+Alyssa
+Eliza Clayton
+Khaleesi
+Maisie
+Maximilien Gnothril
+Talismen Rook
