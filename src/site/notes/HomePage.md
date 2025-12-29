@@ -31,7 +31,9 @@ Here are the session reports for A Fistful of Coppers:
 
 Here are the session reports for the Forsworn Union Campaign:
 [[Session Reports/Forsworn Union/Forsworn Union Session 1\|Forsworn Union Session 1]]
-[[Forsworn Union Session 2\|Forsworn Union Session 2]]
+[[Session Reports/Forsworn Union/Forsworn Union Session 2\|Forsworn Union Session 2]]
+[[Session Reports/Forsworn Union/Forsworn Union Session 3\|Forsworn Union Session 3]]
+[[Session Reports/Forsworn Union/Forsworn Union Session 4\|Forsworn Union Session 4]]
 
 General Timeline (anything I put here shouldn't be changing):
 [[Timeline\|Timeline]]
