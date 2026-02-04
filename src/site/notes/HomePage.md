@@ -35,6 +35,9 @@ Here are the session reports for the Forsworn Union Campaign:
 [[Session Reports/Forsworn Union/Forsworn Union Session 3\|Forsworn Union Session 3]]
 [[Session Reports/Forsworn Union/Forsworn Union Session 4\|Forsworn Union Session 4]]
 
+Here are the session reports for the Murder In Mid-Air Campaign:
+[[Murder in Mid-Air Session 1\|Murder in Mid-Air Session 1]]
+
 General Timeline (anything I put here shouldn't be changing):
 [[Timeline\|Timeline]]
 
