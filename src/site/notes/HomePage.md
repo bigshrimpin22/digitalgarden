@@ -36,6 +36,8 @@ Here are the session reports for the Forsworn Union Campaign:
 [[Session Reports/Forsworn Union/Forsworn Union Session 4\|Forsworn Union Session 4]]
 [[Session Reports/Forsworn Union/Forsworn Union Session 5\|Forsworn Union Session 5]]
 [[Session Reports/Forsworn Union/Forsworn Union Session 6\|Forsworn Union Session 6]]
+[[Session Reports/Forsworn Union/Forsworn Union Session 7\|Forsworn Union Session 7]]
+[[Session Reports/Forsworn Union/Forsworn Union Session 8\|Forsworn Union Session 8]]
 
 Here are the session reports for the Murder In Mid-Air Campaign:
 [[Session Reports/Murder in Mid Air/Murder in Mid-Air Session 1\|Murder in Mid-Air Session 1]]

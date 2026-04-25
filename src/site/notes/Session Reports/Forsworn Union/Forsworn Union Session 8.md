@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/session-reports/forsworn-union/forsworn-union-session-8/"}
+---
+
+The party are deep into their travel through the region of Aeconia towards the city-state of Velfoke. They encounter vineyards of bulging blue and yellow grapes, giving off an intoxicating smell almost equal to the effects of drinking wine. They see fields with massive cows grazing on poppies, and eventually come into a field of grass that grows taller and taller as they get deeper into it. Throughout their days of travel, the group have grown slightly more accustomed to the presence of a dog in their midst, and Quin has become proficient in land vehicles thanks to their continued practice and supervision from Otis.
+
+The practice comes in handy when, while navigating the narrow path of the grassy field, the carriage happens upon an upturned cart with a gnomish man standing off to the side, flagging them down and beseeching them for help. His family are currently attempting to turn over the cart, and he explains to them some men in heavy armour raced along the track atop some large flightless birds, running the family off the road.
+
+The group puts their back into it and are able to right the cart, thankfully with no major damage to its wheels. They help the children gather the vegetables and fruits back up into their sacks, and Tipnek thanks them for helping out his family.
+
+After crossing the large field of grass the group emerge into an open plain, seeing a larger number of small dwellings and farmsteads. Stopping for the night, Sacrilege realises that in the distance she can see the barest suggestion of light on the horizon, which Otis explains is from Velfoke, as many powerful magic users live there and some of them wish to maintain bright lights at all times.
+
+Resting up, Nivian approaches Myrthana to ask her some questions about her Pact, and the two resolve to request a formal meeting with her Patron at some point in the future. Nivian attempts to quell her fears of the city by assuring her that she would likely not be the strangest thing to cross into the city, and that it could be possible for her to meet some other Drow if she wishes to continue her search for her brother. The two share a moment before returning to the others and resting up for the night.
+
+The next day, likely the second last of their journey according to Otis, the party pass several small farms and cottages, before finally spotting the beginnings of the walls of Velfoke in the distance. When finding an open area to eat and relax on the road for hopefully the last time for a while, the unmistakeable smell of a delicious stew wafts to the party on the wind, being drawn to an open area over a cleared ground, where a house once stood, an a large bubbling cauldron with a young woman tending to it.
+
+Hana, the woman, greets them warmly and invites them to sit on stools that she slides towards them, telling them that Nanny Meadbh will return shortly with some meat for the meal. The group gladly take a seat, introducing themselves to Hana, Quinzel giving the name Deepthroat in a panic. She tells them all that Nanny Meadbh teaches her magic and in exchange she looks after the cleaning and most of the cooking.
+
+At this point, a wizened but strong looking elderly woman walks into the small encampment carrying several rabbits for the pot. She greets the lot of them and says they're all very welcome to stay for a meal and a story, as she is a storyteller by trade. The party eat the stew with slight trepidation, but end up loving it, acknowledging that the pair they have encountered are both great cooks. After the meal, Hana begins to magically clean the dishes and Nanny Meadbh rises to tell a story.
+
+Throwing dust into the fire, the willing party members are transported to an image of a forest with two young boys play fighting happily together. Noticing that the boys look quite like Hana, Myrthana and Sacrilege question Nanny Meadbh but she tells them that it is all made up. This is revealed to be false, as the group are able to intuit that the magic shown to them was divination and not illusion, being closer to a Scrying spell than a Create Image one
+
+Meadbh goes to get more wood for the fire, being joined by Sacrilege who offers to help. While the two are alone, she attempts to probe into Sacrileges mind with magic. As this is happening, Quinzel and Myrthana work with Nivian to question Hana about her memories of family, the stories she has been told by Meadbh and any other visitors they have met recently. Hana starts to become upset, making it clear that her memories have been tampered with.
+
+Sacrilege returns alone, having quickly departed from Meadbh, and tells the group something is very wrong. Upon Meadbh's return, she tells them to leave as they have upset Hana, but accidentally lets slip that she knows Quinzel's real name after locking eyes with them. Sensing that the jig is up, She begins to bloat, distend and change form, splitting in two and becoming two hideous hags. Holding up a hand she begins to suffocate Hana in order to subdue her with a magical necklace she has been wearing. The party launch their attack.
+
+Through the fight, Meadbh makes an effort to make no direct physical contact with Myrthana, showing she fears something to do with her pact. She puts up a tough fight, forcing the party to expend most of their resources, coming close to taking them down, but is eventually put to the sword and bested by Myrthana cleaving her head in twain. 
+
+Upon the defeat of the Hag, Hana remembers her family, her memories of them being taken from her after forming her pact with Meadbh to gain some magic ability. She thanks them all, embracing Quinzel and telling them she hopes they will be able to rid themselves of the pain that caused their scar in time. She tells them she would like to spend a night along for the first time in a long time, and they oblige her, returning to Otis and enjoying their cooking to finish off the night. The lights of the city are even more clear in the distance, the party studying them as the session comes to a close.
+
+[[HomePage\|Back to Home]]
